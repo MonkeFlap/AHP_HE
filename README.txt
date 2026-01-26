@@ -22,3 +22,4 @@ Organizacja plików:
 	-Bearing1
 	-Spring1
 	-Bearing2
+xxxxx
